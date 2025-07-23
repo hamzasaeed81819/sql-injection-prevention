@@ -23,5 +23,3 @@ A simple and secure **web application** built with **HTML**, **CSS**, and **SQL 
 
 ---
 
-## 📦 Folder Structure
-
